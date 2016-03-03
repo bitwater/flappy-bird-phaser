@@ -1,0 +1,15 @@
+node_modules
+start.sh
+
+# VIM
+*~
+*.swp
+*.log
+*.idea
+
+.DS_Store
+node_modules
+bower_components
+test
+TODAY
+db/
